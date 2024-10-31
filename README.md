@@ -15,3 +15,5 @@ Outra alternativa é utilizar a imagem Docker diponibilizada em: https://hub.doc
 2. Execute com o comando "sudo docker run -d -p 8000:8000 desafio_django"
 
 3. No navegador digite o endereço "http://localhost:8000"
+
+O acesso para o admin do sistema é Usuário: admin - Senha: admin
