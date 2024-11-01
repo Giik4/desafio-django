@@ -6,7 +6,9 @@ Para executar o projeto:
 
 3. digite o comando "python manage.py runserver"
 
-4.No navegador digite o endereço "http://localhost:8000"
+4. No navegador digite o endereço "http://localhost:8000"
+
+(caso ocorra algum erro de dependência, use o comando "pip install -r requirements.txt"
 
 Outra alternativa é utilizar a imagem Docker diponibilizada em: https://hub.docker.com/r/giik4/desafio-django
 
