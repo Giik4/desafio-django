@@ -8,7 +8,7 @@ Para executar o projeto:
 
 4. No navegador digite o endereço "http://localhost:8000"
 
-(caso ocorra algum erro de dependência, use o comando "pip install -r requirements.txt"
+(caso ocorra algum erro de dependência, use o comando "pip install -r requirements.txt")
 
 Outra alternativa é utilizar a imagem Docker diponibilizada em: https://hub.docker.com/r/giik4/desafio-django
 
